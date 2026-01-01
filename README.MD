@@ -1,14 +1,14 @@
 # SHIRIMPLE WORDLE SOLVER
 Streamlit based Wordle Solver that helps you find the possible words based on your inputs.
 
-Live Demo: [https://simple-wordle-solver.streamlit.app/](https://simple-wordle-solver.streamlit.app/)
+Live Demo: [https://simple-wordle-solver.streamlit.app/](CLICK ME!)
 
 As of now, this tool supports only 5-letter words. You can use the web scraper provided in the `utils.ipynb` file to generate your own word lists based on your criteria.
 
 ## Disclaimer
-**FOR EDUCATIONAL PURPOSE ONLY! The contributor does not assume any responsibility for the misuse of this tool. Please abide the terms and conditions set from this [LINK](https://www.gsmarena.com/robots.txt). Thanks <3**
+**FOR EDUCATIONAL PURPOSES ONLY. This tool is intended to assist users in solving Wordle puzzles and should not be used to gain an unfair advantage in competitive settings. THANKS <3**
 
-## Contributing 💡
+## Contributing
 ```{yaml}
 Contributions are welcome! Please adhere to the following guidelines:
 - Fork the repository
