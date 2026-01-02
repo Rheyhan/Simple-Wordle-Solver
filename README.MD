@@ -1,7 +1,7 @@
 # SHIRIMPLE WORDLE SOLVER
 Streamlit based Wordle Solver that helps you find the possible words based on your inputs.
 
-Live Demo: [HERE](https://shirimple-wordle-solver.streamlit.app/)
+Live Demo: [HERE](https://simple-wordle-solver.streamlit.app/)
 
 As of now, this tool supports only 5-letter words. You can use the web scraper provided in the [utils.ipynb](utils.ipynb) file to generate your own word lists based on your criteria.
 
